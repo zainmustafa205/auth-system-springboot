@@ -43,7 +43,4 @@ Main Tables:
 - Refresh Tokens
 - Password Reset Tokens
 
----
-
-## 📂 Project Structure
 
